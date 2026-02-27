@@ -1,0 +1,5 @@
+{
+  "name": "Mood & Health Tracker",
+  "description": "A comprehensive mood, sleep, and medicine tracker with daily logs and charts.",
+  "requestFramePermissions": ["notifications"]
+}
